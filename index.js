@@ -1,6 +1,6 @@
 'use strict'
 const errors = require('restify-errors')
-const joi = require('joi')
+const joi = require('@hapi/joi')
 
 const middlewareDefaults = {
   joiOptions: {

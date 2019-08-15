@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxnachlinger/restify-joi-middleware.git"
+    "url": "git+https://github.com/onesmash/restify-joi-middleware.git"
   },
   "author": "Max Nachlinger <max@somewhere.com>",
   "license": "ISC",
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/maxnachlinger/restify-joi-middleware#readme",
   "dependencies": {
-    "joi": "^14.3.1",
+    "@hapi/joi": "^15.1.0",
     "restify-errors": "^6.1.1"
   },
   "devDependencies": {
